@@ -1,16 +1,13 @@
-## Hi there 👋
+# Bonjour, moi c’est Cheick 👋
 
-<!--
-**CheickOuedraogo/CheickOuedraogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis étudiant en informatique passionné par le web, le backend et la cybersécurité.
 
-Here are some ideas to get you started:
+## 🔧 Technologies que j’utilise :
+- 🖥️ HTML, CSS, JavaScript
+- ⚙️ Node.js, Express.js, Sequelize
+- 🐘 PostgreSQL
+- 🐍 Python, PyQt5
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Me contacter :
+- Email : bonaventureOuedraogo@outlook.com
