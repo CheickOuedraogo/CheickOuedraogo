@@ -1,12 +1,15 @@
 # Bonjour, moi c’est Cheick 👋
 
-Je suis étudiant en informatique passionné par le web, le backend et la cybersécurité.
+Je suis étudiant en informatique passionné par le web, le backend et la cybersécurité et un peu par les cryptos
 
 ## 🔧 Technologies que j’utilise :
 - 🖥️ HTML, CSS, JavaScript
-- ⚙️ Node.js, Express.js, Sequelize
+- 🐍 Python
+- 🦀 Rust
+- React js
+- React Native
+- Express.js
 - 🐘 PostgreSQL
-- 🐍 Python, PyQt5
 
 
 ## 📫 Me contacter :
